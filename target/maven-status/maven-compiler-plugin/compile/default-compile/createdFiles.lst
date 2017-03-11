@@ -1,0 +1,16 @@
+br\com\duzard\empresa\EmpresaService.class
+br\com\duzard\utils\ServiceMap.class
+br\com\duzard\utils\GenericService.class
+br\com\duzard\user\UserEntity.class
+br\com\duzard\utils\AppContext.class
+br\com\duzard\empresa\EmpresaEntity.class
+br\com\duzard\user\security\SecutiryService$LoginResponse.class
+br\com\duzard\empresa\EmpresaRepository.class
+br\com\duzard\user\security\SecurityFiltros.class
+br\com\duzard\utils\BaseEntity.class
+br\com\duzard\user\security\SecutiryService.class
+br\com\duzard\user\UserRepository.class
+br\com\duzard\utils\BaseKey.class
+br\com\duzard\utils\EnderecoByCep.class
+br\com\duzard\AppMain.class
+br\com\duzard\user\UserService.class
