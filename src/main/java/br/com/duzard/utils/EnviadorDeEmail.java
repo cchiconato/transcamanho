@@ -19,7 +19,7 @@ public class EnviadorDeEmail implements ServiceMap {
 	            Email email = new SimpleEmail();
 	            email.setHostName("smtp.live.com");
 	            email.setSmtpPort(587);
-	            email.setAuthenticator(new DefaultAuthenticator("cc464@hotmail.com", "senha123?"));
+	            email.setAuthenticator(new DefaultAuthenticator("cc464@hotmail.com", "???????"));
 	            email.setStartTLSEnabled(true);
 
 	            email.setFrom(emailDes);
